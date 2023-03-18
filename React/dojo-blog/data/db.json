@@ -1,0 +1,19 @@
+{ 
+ "blogs": [
+        { "title": "1My new Website",
+        "body": "1lorem ipsum ...", 
+        "author":"Abraham2", 
+        "id": 1 
+        },
+        { "title": "2My new Website",
+        "body": "2lorem ipsum ...", 
+        "author":"Abraham3", 
+        "id": 1 
+        },
+        { "title": "3My new Website",
+        "body": "3lorem ipsum ...", 
+        "author":"Abraham4", 
+        "id": 1 
+        }
+    ]
+}
